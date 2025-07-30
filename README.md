@@ -4,7 +4,8 @@ I am Mohamed Mousa, a backend developer currently learning and building applicat
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-mohamedmosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-mosa-854291304/))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mohamedmosa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mosa-854291304/)
+
 [![Gmail Badge](https://img.shields.io/badge/-mohamedmosa6000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedmosa6000@gmail.com)](mailto:mohamedmosa6000@gmail.com)
 
 ## Technologies

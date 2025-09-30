@@ -1,4 +1,6 @@
-## Fancy seeing you here!
+<h1>Hola <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" width="30"/> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamAmer&label=Profile%20views&color=0e75b6&style=flat" alt="iamAmer-Count" /> </p>
+
 
 I am Mohamed Mosa, a backend developer currently learning and building applications using .NET technologies. I am passionate about clean code, system design, and backend performance. I enjoy working with different programming languages and frameworks, and I’m always open to collaboration on interesting projects or innovative ideas.
 

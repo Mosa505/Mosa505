@@ -1,6 +1,6 @@
 ## Fancy seeing you here!
 
-I am Mohamed Mousa, a backend developer currently learning and building applications using .NET technologies. I am passionate about clean code, system design, and backend performance. I enjoy working with different programming languages and frameworks, and I’m always open to collaboration on interesting projects or innovative ideas.
+I am Mohamed Mosa, a backend developer currently learning and building applications using .NET technologies. I am passionate about clean code, system design, and backend performance. I enjoy working with different programming languages and frameworks, and I’m always open to collaboration on interesting projects or innovative ideas.
 
 Feel free to connect with me here:
 
